@@ -14,7 +14,32 @@ This machine learning project focuses on building and training an artificial neu
 - The test loss is relatively low, which indicates that the model is able to generalize well to unseen data.
 
 ## Usage
-The model is not deployed yet. It will be available as a free web service.
+The model is hosted as a free web service on streamlit community cloud and can be accessed through this link: [student-performance-prediction-ml](https://github.com/shre-db/Student-Performance-ML).
+
+Alternatively, you can run the web application locally by following these steps:
+
+1. Choose a project directory on your local machine (e.g., C:\Users\yourname\projects\).
+2. Clone this repository by typing the following command in your terminal: 
+    ```
+    git clone git@github.com:shre-db/Student-Performance-ML.git
+    ```
+    (Note: If you're on Windows, you could use 'Git Bash' instead of 'cmd' for executing git commands).
+3. Before proceeding, make sure you have a Python interpreter installed (recommended version is Python 3.7+). Ensure that Python is added to the PATH environment variable during installation.
+4. Open a terminal (e.g., 'cmd' on Windows) and navigate to the project directory (e.g., C:\Users\yourname\projects\).
+5. Create a virutal environment running the following command:
+    ```
+    python -m venv student
+    ```
+6. Install dependencies by executing this command:
+    ```
+    pip install -r requirements.txt
+    ```
+7. Once all the dependencies are installed, run the web application locally with the following command:
+    ```
+    streamlit run app.py
+    ```
+
+If you have followed the instructions correctly, a new tab should open in your default web browser.
 
 ## References
 
