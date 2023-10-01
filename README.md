@@ -1,6 +1,6 @@
 # Student Performance
 
-![Cover-Image](https://codetoanbug.com/wp-content/uploads/2023/01/1-07.41.05.jpeg)
+![Cover-Image](https://rare-gallery.com/livewalls/thlive800/142539-anime-girl-studying-live-wallpaper.jpg)
 
 ## Introduction
 
