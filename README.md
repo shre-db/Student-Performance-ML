@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This machine learning project focuses on building and training an artificial neural network using PyTorch to predict students' performance in secondary education from attributes including student grades, demographic, social and school related features. Data for this project was collected from [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/dataset/320/student+performance) and was preprocessed using pandas, numpy and scikit-learn. A transformation pipeline was built to handle categorical and numerical transformation conveniently. A Feed-Forward-Network was designed using linear and batch normalization layers. The trained scikit-learn transformers and network parameters were saved for later use. The model will be deployed as a web application for educational purposes.
+This machine learning project focuses on building and training an artificial neural network using PyTorch to predict students' performance in secondary education from attributes including student grades, demographic, social and school related features. Data for this project was collected from [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/dataset/320/student+performance) and was preprocessed using pandas, numpy and scikit-learn. A transformation pipeline was built to handle categorical and numerical transformation conveniently. A Feed-Forward-Network was designed using linear and batch normalization layers. The trained scikit-learn transformers and network parameters were saved for later use. The model is deployed as a webservice on streamlit community cloud and can be accessed by anyone with the link for free.
 
 ## Results
 ![MSE-Loss-Plot](images/MSE-Loss.png)
@@ -14,7 +14,7 @@ This machine learning project focuses on building and training an artificial neu
 - The test loss is relatively low, which indicates that the model is able to generalize well to unseen data.
 
 ## Usage
-The model is hosted as a free web service on streamlit community cloud and can be accessed through this link: [student-performance-prediction-ml](https://github.com/shre-db/Student-Performance-ML).
+The model is hosted as a free web service on streamlit community cloud and can be accessed through this link: [Predict student's performance in secondary education using AI](https://student-performance-prediction-ml.streamlit.app/).
 
 Alternatively, you can run the web application locally by following these steps:
 
