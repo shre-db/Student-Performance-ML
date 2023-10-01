@@ -1,6 +1,6 @@
 # Student Performance
 
-![Cover-Image](https://rare-gallery.com/livewalls/thlive800/142539-anime-girl-studying-live-wallpaper.jpg)
+![Cover-Image](https://lean.social/wp-content/uploads/2023/03/1-1-e1679820591456.png)
 
 ## Introduction
 
